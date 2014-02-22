@@ -17,4 +17,5 @@ Pod::Spec.new do |s|
   s.resources = 'Assets/*.jpg'
 
   s.dependency 'ProductCore'
+
 end
